@@ -19,7 +19,37 @@ h2 {
 p {
 	text-align: justify;
 }
+a {
+	color: white;
+}
+
+/*Classes go here*/
+
+.menu-list {
+	display: inline;
+   	padding: 0px 10px 0px 10px;
+}
+
+.menu-item {
+	color: white;
+    font-size: 20px;
+}
+.return {
+	text-align: left;
+	background: rgba(0,0,0,0.5);
+}
+
+/*ID's go here*/
+
+#homepage-menu {
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+}
 
 #whisky {
+	margin-bottom: 20px
+}
+
+#home1 {
 	margin-bottom: 20px
 }
