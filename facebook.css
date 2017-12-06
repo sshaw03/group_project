@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+
+/*@import tags let you bring external elments such as web fonts into a CSS stylesheet, they should be placed at the top of a CSS document- Sasha*/
+
+body {
+	font-family: 'Old Standard TT', serif;
+	background-color: rgb(85,85,85);
+	color: white;
+	text-align: center;
+	margin: 0 auto;
+	max-width: 600px;
+}
+h1 {
+	font-size: 75px;
+}
+h2 {
+	font-size: 45px;
+}
+p {
+	text-align: justify;
+}
+
+#whisky {
+	margin-bottom: 20px
+}
