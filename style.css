@@ -10,6 +10,9 @@ body {
 	margin: 0 auto;
 	max-width: 600px;
 }
+
+
+
 h1 {
 	font-size: 75px;
 }
@@ -91,4 +94,9 @@ a {
 
 #home1 {
 	margin-bottom: 20px
+}
+
+#bittersHeader {
+    background-image: url("Images/absinthe-inside.jpg");
+    width: 100%;
 }
