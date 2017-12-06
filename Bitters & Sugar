@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<style>
+
+ h1 {
+    text-align: center;
+    color: maroon;
+ 	}
+
+ h3 {text-align: center;
+ 	color: maroon;
+ 	}
+
+
+	</style>
+
+	<link rel="icon" href="Images/Icon.ico">
+	<title>Bitters & Sugar</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="dropdown">
+  		<button class="dropbtn">MENU</button>
+  		<div class="dropdown-content">
+    		<a href="absinthe.html">Absinthe</a>
+    		<a href="rye-whisky-and-cognac.html">Rye Whisky & Cognac</a>
+    		<a href="#">Bitters & Sugar</a>
+  		</div>
+	</div>	
+	<h1>
+		The sweet, the sour and the bitters
+	</h1>
+
+		<h3> 
+		The bitters, sugar and lemon zest are not often the first thing one thinks of when thinking of a Sazarac, and are outshone by its more glamourous ingredients. Bitters, a sugar cube and a a tiny amount of lemon zest really make this classic New Orleans cocktail what it is.
+		</h3>
+
+	<h2>
+		A dash of bitters
+	</h2>
+	
+	<img id="Peychauds" src="Images/Peychauds.PNG">
+	
+		<p>
+		Peychauds Bitters, has a fascinating History, banned during Prohibition, Peychauds was developed by an apothecary of Creole descent, Antoine Peychauds using a recipes passed down to him by his Haitian father. Made using Gentian Root, this is a slightly sweeter and more floral bitters than others on the market such as Angostura. There is of course always much discusion about exact measurements but i recommend 4 dashes in 2oz of Whiskey. 
+		</p>
+	
+		<p>
+		This video goes into detail about the sweet, the sour and the bitter parts to a perfect Sazerac:
+		</p>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/luA0iqbXhXk" frameborder="0" allowfullscreen></iframe>
+	
+	<h2>
+		Another dash of bitters
+	</h2>
+	
+	<img id="Angostura" src="Images/Angostura.png">
+	
+		<p>
+		Whilst not traditional, it has become popular to add a dash of Angostura a Bitters more herbal in flavour to the mix. Although i wouldn't recommend anymore than that. Whilst also made of Gentian Root, it packs a punch at 47.7% alc/vol.
+		</p>
+		
+		<p>
+		To find out more about the more about bitters visit process check out the podcast below:
+		</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIG4lqnplUU" frameborder="0" allowfullscreen></iframe>
+
+	<h2>
+		The Sugar Cube
+	</h2>
+
+		<p>
+		Enter text re Sugar
+	</p>
+
+	<h2>
+		Lemon Zest
+	</h2>
+
+	<p>
+		Enter text re Lemon Zest
+	</p>
+
+	<p>
+		For more information from the 'Sazerac' Team contact us below:
+	</p>
+
+<input type="email" placeholder="your email">
+<input type="submit">
+
+	<p class="return"><a href="homepage.html">HOME</a></p>
+</html>
