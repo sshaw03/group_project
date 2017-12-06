@@ -2,20 +2,6 @@
 <html>
 <head>
 
-	<style>
-
- h1 {
-    text-align: center;
-    color: maroon;
- 	}
-
- h3 {text-align: center;
- 	color: maroon;
- 	}
-
-
-	</style>
-
 	<link rel="icon" href="Images/Icon.ico">
 	<title>Bitters & Sugar</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
