@@ -10,6 +10,16 @@
   to {opacity: 1}
 }
 
+@media (max-width: 600px) {
+  .home-menu-list {
+    display: initial;
+    padding: 5px;
+  }
+  body {
+    text-align: left;
+    max-width: none;
+  }
+}
 
 /*@import tags let you bring external elments such as web fonts into a CSS stylesheet, they should be placed at the top of a CSS document- Sasha*/
 
@@ -73,7 +83,7 @@ a {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-    margin: auto
+    margin: auto;
 }
 
 .dropdown-content a {
@@ -104,6 +114,10 @@ a {
 	margin-bottom: 20px
 }
 
+#whiskeyHeader {
+    background-image: url("Images/whiskeyheader.jpg");
+    width: 100%;
+}
 /* CSS relating to the homepage slideshow*/
 
 * {box-sizing:border-box}
