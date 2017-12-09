@@ -3,12 +3,43 @@
 <head>
 	<link rel="icon" href="Images/Icon.ico">
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="carousel.js"></script>
 	<title>Sexy Cocktail</title>
 </head>
 <body>
 	<h1>Sazerac</h1>
-	<img id="home1" src="Images/home1.jpg">
-	<p id="homepage-summary">All about Sazerac!</p>
+	<div class="slideshow-container">
+  <div class="Slides fade">
+    <div class="numbertext">1 / 4</div>
+    <img src="Images/home1.jpg" style="width:100%">
+  </div>
+
+  <div class="Slides fade">
+    <div class="numbertext">2 / 4</div>
+    <img src="Images/slides/absinthe resize.jpg" style="width:100%">
+  </div>
+
+  <div class="Slides fade">
+    <div class="numbertext">3 / 4</div>
+    <img src="Images/slides/Rye Whisky Resize.jpg" style="width:100%">
+  </div>
+
+    <div class="Slides fade">
+    <div class="numbertext">4 / 4</div>
+    <img src="Images/slides/cognac resize.jpg" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>  
+</div>
   <ul id="homepage-menu">
     <li class="home-menu-list"><a class="home-menu-item" href="absinthe.html">Absinthe</a></li>
     <li class="home-menu-list"><a class="home-menu-item" href="rye-whisky-and-cognac.html">Rye Whisky & Cognac</a></li>
