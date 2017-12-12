@@ -114,6 +114,14 @@ a {
     background-image: url("Images/whiskeyheader.jpg");
     width: 100%;
 }
+
+#absintheHeader {
+  background-image: url("Images/absinthe3.jpg");
+}
+
+#bittersHeader {
+  background-image: url("Images/bittersheader.jpg");
+} 
 /* CSS relating to the homepage slideshow*/
 
 * {box-sizing:border-box}
